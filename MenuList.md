@@ -4,3 +4,7 @@
 - Nasi Goreng Ayam
 - Nasi Ayam Geprek
 - Kwetiau Goreng
+
+## Drinks
+- Cola
+- Jus
